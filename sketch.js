@@ -106,6 +106,8 @@ function showResult() {
   }
 }
 
+//screens
+
 function keyPressed() {
   if (keyCode == ENTER) {
     gamescreen = 1;
