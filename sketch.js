@@ -124,7 +124,7 @@ function gameOver() {
   text("SURE, HE WAS ALL ABOUT GOSSIP AND DIDN'T GO EASY ON YOU, BUT HE DIDN'T KILL ANYONE.", width / 2, height / 2);
   text("YOUR CHAIR FEELS WEIRD.", width / 2, height / 2 + 50);
   text("IT SEEMS THAT UNDER YOUR SEAT THERE'S A REMOTE THAT ALLOWS YOU TO GO BACK IN TIME BY CLICKING Enter.", width / 2, height / 2 + 75);
-  text("EVERYONE DESERVES A SECOND CHANCE... SHOULD YOU TAKE IT? OR DO YOU CHOOSE TO LIVE WITHOUT REGRETS?", width / 2, height / 2 + 100);
+  text("EVERYONE DESERVES A SECOND CHANCE. SHOULD YOU TAKE IT? OR DO YOU CHOOSE TO LIVE WITHOUT REGRETS?", width / 2, height / 2 + 100);
   myRec.resultString = 0;
 }
 
@@ -138,7 +138,7 @@ function gameOverdois() {
   text("YEAH NO ONE LIKED HIM, BUT WHAT A BAD TAKE.", width / 2, height / 2);
   text("YOUR CHAIR FEELS WEIRD.", width / 2, height / 2 + 50);
   text("IT SEEMS THAT UNDER YOUR SEAT THERE'S A REMOTE THAT ALLOWS YOU TO GO BACK IN TIME BY CLICKING Enter.", width / 2, height / 2 + 75);
-  text("YOU ALWAYS HAD A SPECIAL FEELING FOR ROUND-BOY... SHOULD YOU TURN BACK? OR MOVE ON?", width / 2, height / 2 + 100);
+  text("YOU ALWAYS HAD A SPECIAL FEELING FOR ROUND-BOY. SHOULD YOU TURN BACK? OR MOVE ON?", width / 2, height / 2 + 100);
   myRec.resultString = 0;
 }
 
@@ -152,7 +152,7 @@ function Win() {
   text("NOT THAT IT WAS HARD WITH A NAME LIKE THAT.", width / 2, height / 2);
   text("YOUR CHAIR FEELS WEIRD.", width / 2, height / 2 + 50);
   text("IT SEEMS THAT UNDER YOUR SEAT THERE'S A REMOTE THAT ALLOWS YOU TO GO BACK IN TIME BY CLICKING Enter.", width / 2, height / 2 + 75);
-  text("YOU THINK MAYBE BIG-TUNIA WAS WHISPERING MEAN THINGS ABOUT YOUR GARDENING ABILITIES... NO ONE WOULD KNOW, RIGHT?", width / 2, height / 2 + 100);
+  text("YOU THINK MAYBE BIG-TUNIA WAS WHISPERING MEAN THINGS ABOUT YOUR GARDENING ABILITIES. NO ONE WOULD KNOW, RIGHT?", width / 2, height / 2 + 100);
   myRec.resultString = 0;
 
 }
